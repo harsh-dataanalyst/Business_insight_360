@@ -55,17 +55,34 @@ AtliQ Hardware is a rapidly growing company that recently initiated its data ana
 
 ---
 
-## 📊 Dashboard Views
+## 📸 Dashboard Preview – Business Insights 360
 
-- **Home View** – Navigation Hub
-- **Info Page** – Project and report guide
-- **Finance View** – Revenue, costs, profitability
-- **Sales View** – Trends, top products, performance
-- **Marketing View** – Channel effectiveness, ROI
-- **Supply Chain View** – Logistics and forecast accuracy
-- **Executive View** – High-level business KPIs
-- **Products View** – Product-level performance
-- **Support Page** – Help and FAQs
+### 🏠 Home Page View  
+![Home Page](business-insights-360-dashboard/home_page.png)
+
+### 🧑‍💼 Executive View  
+![Executive Dashboard](business-insights-360-dashboard/executive_view.png)
+
+### 💰 Finance View  
+![Finance Dashboard](business-insights-360-dashboard/finance_view.png)
+
+### 📊 Marketing View  
+![Marketing Dashboard](business-insights-360-dashboard/marketing_view.png)
+
+### 🔄 Model View  
+![Model Dashboard](business-insights-360-dashboard/model_view.png)
+
+### 🏗️ Supply Chain View  
+![Supply Chain Dashboard](business-insights-360-dashboard/supply_chain_view.png)
+
+### 📈 Sales View  
+![Sales Dashboard](business-insights-360-dashboard/sales_view.png)
+
+### 🤝 Support View  
+![Support Dashboard](business-insights-360-dashboard/Support.png)
+
+### ℹ️ Info Page  
+![Info Page](business-insights-360-dashboard/info.png)
 
 ---
 
